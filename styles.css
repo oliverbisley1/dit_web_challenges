@@ -102,8 +102,10 @@ section {
   margin-top: 20px;
 }
 
-@media 400px {
-  section {
-    margin: 130px auto;
-  }
+footer {
+  width: 100%;
+  background-color: gray;
+  padding: 20px;
+  height: 200px;
+  text-align: center;
 }
